@@ -12,7 +12,7 @@
 
   <p align="left">
     <br />
-    <a href="">Deployed Link</a>
+    <a href="https://rode-home-clone.netlify.app/">Deployed Link</a>
   </p>
 </div>
 
@@ -79,5 +79,5 @@ To build this I took an entire day, I gathered all the assets by inspecting thei
 
 <!-- Project screenshot -->
 
-[project-url]:
-[source-code]:
+[project-url]: https://rode-home-clone.netlify.app/
+[source-code]: https://github.com/nkumar007/RODE-clone
